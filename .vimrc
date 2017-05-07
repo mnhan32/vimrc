@@ -55,7 +55,7 @@ filetype plugin indent on    " required
 " Put your non-Plugin stuff after this line
 
 syntax on
-colorscheme monokai
+colorscheme sierra
 
 set t_Co=256
 set tabstop=4
